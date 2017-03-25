@@ -1,5 +1,11 @@
 # git-tut-01
 
+Install GIT:
+
+    > https://desktop.github.com/
+
+
+
 Clone this repository:
 
     > git clone https://github.com/ODCGitTut/git-tut-01.git
