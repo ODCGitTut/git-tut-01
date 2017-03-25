@@ -1,0 +1,7 @@
+Follow these instructions to learn the basics of GIT. You can find all required commands in the file "README.md"
+1) In this directory, create a new folder and give it any name you want
+2) Go into the new folder and create an new text file called "Goals-Step2.txt"
+3) Write "Hello world" in your new text file and save
+4) Go back to the directory this file (Your goals.txt) is in and add your changes to the current commit
+5) Don't forget to include a short commit message of what you did
+6) Finally, send your changes to the online repository
